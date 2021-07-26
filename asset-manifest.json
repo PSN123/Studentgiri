@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Studentgiri/static/css/main.8dfb1c83.chunk.css",
+    "main.js": "/Studentgiri/static/js/main.d1ed83a6.chunk.js",
+    "main.js.map": "/Studentgiri/static/js/main.d1ed83a6.chunk.js.map",
+    "runtime-main.js": "/Studentgiri/static/js/runtime-main.04cda1b2.js",
+    "runtime-main.js.map": "/Studentgiri/static/js/runtime-main.04cda1b2.js.map",
+    "static/js/2.d9173274.chunk.js": "/Studentgiri/static/js/2.d9173274.chunk.js",
+    "static/js/2.d9173274.chunk.js.map": "/Studentgiri/static/js/2.d9173274.chunk.js.map",
+    "index.html": "/Studentgiri/index.html",
+    "static/css/main.8dfb1c83.chunk.css.map": "/Studentgiri/static/css/main.8dfb1c83.chunk.css.map",
+    "static/js/2.d9173274.chunk.js.LICENSE.txt": "/Studentgiri/static/js/2.d9173274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cda1b2.js",
+    "static/js/2.d9173274.chunk.js",
+    "static/css/main.8dfb1c83.chunk.css",
+    "static/js/main.d1ed83a6.chunk.js"
+  ]
+}
